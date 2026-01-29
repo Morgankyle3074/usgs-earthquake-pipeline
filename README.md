@@ -2,6 +2,16 @@
 
 
 
+\## Dashboard Preview
+
+
+
+!\[USGS Earthquake Dashboard](images/dashboard.png)
+
+
+
+
+
 End-to-end ETL pipeline using USGS government earthquake data: Python ingestion \& cleaning → PostgreSQL → Power BI/Tableau dashboard.
 
 
@@ -14,7 +24,7 @@ End-to-end ETL pipeline using USGS government earthquake data: Python ingestion 
 
 \- SQL
 
-\- Power BI 
+\- Power BI
 
 
 
@@ -29,6 +39,4 @@ End-to-end ETL pipeline using USGS government earthquake data: Python ingestion 
 \- Create SQL views for analytics
 
 \- Build an interactive dashboard
-
-
 
